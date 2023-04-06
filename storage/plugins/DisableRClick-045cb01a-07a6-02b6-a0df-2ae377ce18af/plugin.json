@@ -1,0 +1,45 @@
+{
+	"name": "No Right click ",
+	"version": "1.0",
+	"description": "Disable right clicking",
+	"demo": "http://bernholdt.dk",
+	"author": {
+		"name": "Michael B. Rasmussen",
+		"link": "http://www.bernholdt.dk/essays/2014/12/koken-plugin/"
+	},
+
+	"koken_version_required": "0.5.0",
+
+	"data": {
+		"NoRClick": {
+			"label": "Your copyright notice",
+			"info": "Shown when user rightclick on a big image",
+			"type": "string",
+			"placeholder": "Notice"
+		},
+		"NoRClick_Color": {
+			"label": "Popup box color",
+			"info": "Add any hex value to style your popup notice default #fff",
+			"type": "string",
+			"placeholder": "#fff"
+		},
+		"NoRClick_Opacity": {
+			"label": "Popup box opacity",
+			"info": "Accepted values 0.1 -> 0.9 default value 0.9",
+			"type": "string",
+			"placeholder": "0.9"
+		},
+		"NoRClick_Year": {
+			"label": "Show current year",
+			"info": "Show current year on popup accepted values yes / no",
+			"type": "string",
+			"placeholder": "yes"
+		},
+		"NoRClick_Padding": {
+			"label": "padding around the popup box",
+			"info": "Padding around the popupbox in px. default 15px",
+			"type": "string",
+			"placeholder": "15px"
+		}		
+	}
+}

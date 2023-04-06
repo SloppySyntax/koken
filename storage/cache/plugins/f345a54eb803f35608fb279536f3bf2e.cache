@@ -1,0 +1,15 @@
+a:2:{s:4:"info";a:2:{s:13:"email_handler";s:9:"DDI_Email";s:22:"email_delivery_address";s:23:"info@arnoldvanrooij.com";}s:7:"plugins";a:1:{i:0;a:2:{s:4:"path";s:50:"html-injector-045cb01a-07a6-02b6-a0df-2ae377ce18af";s:4:"data";a:2:{s:6:"header";s:670:"<link rel="mask-icon" href="http://www.arnoldvanrooij.com/safaritab.svg" color="#000000">
+<link rel="shortcut icon" type="image/png" href="/asset-get/A0000mcaIRH4LPZc/favicon2-copy.png">
+
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-CK3H8JYH48"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-CK3H8JYH48');
+</script>
+
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://ogp.me/ns/fb#">
+<meta property="og:image" content="https://portfolio.arnoldvanrooij.com/i.php?/000/454/header,huge.1575418269.jpg" />";s:6:"footer";s:0:"";}}}}
