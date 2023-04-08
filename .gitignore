@@ -1,0 +1,15 @@
+#ignore log folders
+**/logs
+
+ignoge cachefiles
+*.cache
+
+storage/cache/*
+
+#ignore photos
+storage/originals/
+*
+storage/cache/*
+storage/custom/*
+app/cache/*
+app/logs/*
