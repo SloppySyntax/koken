@@ -7,5 +7,5 @@ git clone https://github.com/SloppySyntax/koken.git
 
 Update database.php to your db credentials and ignore its path for changes
 
-git update-index --assume-unchanged ~/koken.arnoldvanrooij.com/storage/configuration/database.php
+git update-index --skip-worktree ./storage/configuration/database.php
 
